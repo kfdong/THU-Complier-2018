@@ -1,0 +1,6 @@
+Priority!!
+
+Use (boolconst true) or (null) to represent ommision?
+
+isinstance([1,2], int[])
+	Not allowed. Type must be a string(IDENTITFIER).
